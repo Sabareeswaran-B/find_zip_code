@@ -1,0 +1,17 @@
+C:\csharp\find_zip_code\bin\Debug\net6.0\find_zip_code.exe
+C:\csharp\find_zip_code\bin\Debug\net6.0\find_zip_code.deps.json
+C:\csharp\find_zip_code\bin\Debug\net6.0\find_zip_code.runtimeconfig.json
+C:\csharp\find_zip_code\bin\Debug\net6.0\find_zip_code.dll
+C:\csharp\find_zip_code\bin\Debug\net6.0\ref\find_zip_code.dll
+C:\csharp\find_zip_code\bin\Debug\net6.0\find_zip_code.pdb
+C:\csharp\find_zip_code\obj\Debug\net6.0\find_zip_code.csproj.AssemblyReference.cache
+C:\csharp\find_zip_code\obj\Debug\net6.0\find_zip_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\find_zip_code\obj\Debug\net6.0\find_zip_code.AssemblyInfoInputs.cache
+C:\csharp\find_zip_code\obj\Debug\net6.0\find_zip_code.AssemblyInfo.cs
+C:\csharp\find_zip_code\obj\Debug\net6.0\find_zip_code.csproj.CoreCompileInputs.cache
+C:\csharp\find_zip_code\obj\Debug\net6.0\find_zip_code.dll
+C:\csharp\find_zip_code\obj\Debug\net6.0\ref\find_zip_code.dll
+C:\csharp\find_zip_code\obj\Debug\net6.0\find_zip_code.pdb
+C:\csharp\find_zip_code\obj\Debug\net6.0\find_zip_code.genruntimeconfig.cache
+C:\csharp\find_zip_code\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\csharp\find_zip_code\obj\Debug\net6.0\find_zip_code.csproj.CopyComplete
