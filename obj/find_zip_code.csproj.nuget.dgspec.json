@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\csharp\\find_zip_code\\find_zip_code.csproj": {}
+    "C:\\training\\csharp\\find_zip_code\\find_zip_code.csproj": {}
   },
   "projects": {
-    "C:\\csharp\\find_zip_code\\find_zip_code.csproj": {
+    "C:\\training\\csharp\\find_zip_code\\find_zip_code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\csharp\\find_zip_code\\find_zip_code.csproj",
+        "projectUniqueName": "C:\\training\\csharp\\find_zip_code\\find_zip_code.csproj",
         "projectName": "find_zip_code",
-        "projectPath": "C:\\csharp\\find_zip_code\\find_zip_code.csproj",
+        "projectPath": "C:\\training\\csharp\\find_zip_code\\find_zip_code.csproj",
         "packagesPath": "C:\\Users\\Sabareeswaran\\.nuget\\packages\\",
-        "outputPath": "C:\\csharp\\find_zip_code\\obj\\",
+        "outputPath": "C:\\training\\csharp\\find_zip_code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sabareeswaran\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
